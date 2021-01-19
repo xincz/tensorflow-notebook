@@ -1,4 +1,4 @@
 # ignore target folder
-
-# ignore IDEA setting files
-.idea/
+.ipynb_checkpoints/
+callbacks/
+datasets/
