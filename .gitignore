@@ -1,0 +1,4 @@
+# ignore target folder
+
+# ignore IDEA setting files
+.idea/
